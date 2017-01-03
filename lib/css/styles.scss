@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-image: url(https://res.cloudinary.com/tempest/image/upload/c_limit,cs_srgb,w_10000/MTMyNDIyMjkwNDczNDA0NDI2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Oswald', sans-serif;
+}
+
+.min, .max, .range {
+  display: block;
+}
+
+input, button {
+  margin: 5px;
+}
+
+.user-guess {
+  font-size: 30pt;
+}
